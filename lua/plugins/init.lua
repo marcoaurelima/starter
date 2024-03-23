@@ -23,7 +23,7 @@ return {
         "css-lsp",
         "prettier",
         "gopls",
-        "cland",
+        "clangd",
       },
     },
   },
