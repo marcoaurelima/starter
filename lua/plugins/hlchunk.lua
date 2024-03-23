@@ -1,5 +1,4 @@
 return {
-  {
     "shellRaining/hlchunk.nvim",
     lazy = false,
     event = { "UIEnter" },
@@ -17,5 +16,4 @@ return {
         },
       }
     end,
-  },
 }
