@@ -6,7 +6,6 @@ return {
       require "configs.conform"
     end,
   },
-
   {
     "neovim/nvim-lspconfig",
     config = function()
@@ -14,7 +13,6 @@ return {
       require "configs.lspconfig"
     end,
   },
-
   {
     "williamboman/mason.nvim",
     opts = {
@@ -25,11 +23,10 @@ return {
         "css-lsp",
         "prettier",
         "gopls",
-        "cland"
+        "cland",
       },
     },
   },
-
   {
     "nvim-treesitter/nvim-treesitter",
     opts = {
@@ -41,7 +38,7 @@ return {
         "css",
         "c",
         "cpp",
-        "go"
+        "go",
       },
     },
   },
