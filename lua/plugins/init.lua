@@ -39,6 +39,7 @@ return {
         "c",
         "cpp",
         "go",
+        "asm"
       },
     },
   },
