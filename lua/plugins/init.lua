@@ -24,6 +24,7 @@ return {
         "prettier",
         "gopls",
         "clangd",
+        "typescript-language-server"
       },
     },
   },
