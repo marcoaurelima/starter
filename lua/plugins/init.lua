@@ -40,7 +40,9 @@ return {
         "cpp",
         "go",
         "asm",
-        "make"
+        "make",
+        "typescript",
+        "javascript",
       },
     },
   },
