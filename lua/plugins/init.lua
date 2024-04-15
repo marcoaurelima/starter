@@ -24,7 +24,8 @@ return {
         "prettier",
         "gopls",
         "clangd",
-        "typescript-language-server"
+        "typescript-language-server",
+        "pyright"
       },
     },
   },
@@ -44,6 +45,7 @@ return {
         "make",
         "typescript",
         "javascript",
+        "python"
       },
     },
   },
